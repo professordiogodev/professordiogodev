@@ -2,8 +2,6 @@
 
 Hey there! My name is Diogo Barros, I am a DevOps & Web Instructor, originally from Caldas da Rainha, Portugal! 🇵🇹 You'll find me teaching all around the world, including in Portugal, too!
 
----
-
 I have two main roles:
 - I run a web agency called `🧨 Dionamite` where I deliver finest-quality projects to other businesses and partners.
 - I teach remotely at schools like `🚀 Ironhack` and `🏯 Tokio School`.
