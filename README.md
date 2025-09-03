@@ -13,9 +13,8 @@ I'm a DevOps and WebDev instructor, full-stack developer, and creator of engagin
 I started out in web development and gradually navigated into the world of DevOps.  
 🧙‍♂️🕹️ I'm deeply passionate about how things work in tech, and while my main focus is **DevOps** and **Web Development**, I also have solid knowledge in:
 
-- **AI**
-- **Data Analytics**
 - **Cybersecurity**
+- **BI Analytics**
 - **Game Development**
 
 ---
