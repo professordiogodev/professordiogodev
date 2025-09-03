@@ -5,7 +5,7 @@ I'm a DevOps and WebDev instructor, full-stack developer, and creator of engagin
 - 🧨 Running a web agency delivering high-quality apps  
 - 🎓 Teaching remotely at `🚀 Ironhack` and `🏯 Tokio School`  
 - 🔭 Currently building cloud-based labs for students  
-- 🌱 Exploring more of Japan 🇯🇵 while coding!  
+- 🌱 Exploring the world while teaching and coding!
 - 💬 Ask me about Kubernetes, Docker, or Prometheus  
 
 ---
