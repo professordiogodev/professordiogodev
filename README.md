@@ -53,9 +53,9 @@ My classrooms are inclusive, chaotic in the best way, and built on the idea that
 
 ---
 
-### 🌍 Languages I Speak (the human kind)
+### 🌍 Languages I Speak
 
-🇵🇹 Portuguese · 🇬🇧 English · 🇯🇵 Japanese (near N2, grinding N1) · 🇨🇳 Mandarin (HSK3) · 🇫🇮 Finnish · 🇪🇸 Spanish
+🇵🇹 Portuguese · 🇬🇧 English · 🇯🇵 Japanese (near N2) · 🇫🇮 Finnish · 🇨🇳 Mandarin (HSK3) · 🇪🇸 Spanish
 
 ---
 
