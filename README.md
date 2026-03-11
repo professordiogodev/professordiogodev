@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm Diogo 🧨
+# Hey-ho, I'm Diogo! 🧨
 
 **DevOps, MLOps & AI Trainer · CEO @ [DIONAMITE](https://dionamite.com) · Medical Student · Polyglot**
 
@@ -61,9 +61,9 @@ My classrooms are inclusive, chaotic in the best way, and built on the idea that
 
 ### 🧨 The Vibe
 
-I juggle too many things and I love every single one of them. I read about Vedic astrology and Jungian psychology between Terraform deploys. I'm entering my Mercury Mahadasha. I believe that teaching is the highest-leverage thing you can do with your time — one good class can redirect someone's entire life trajectory.
+I juggle too many things and I love every single one of them. I read about Vedic astrology and Jungian psychology while deploying Terraform. I believe that teaching is the highest-leverage thing you can do with your time — one good class can redirect someone's entire life trajectory.
 
-If you're a junior looking to break into tech, or a company looking for training in DevOps, Cloud, AI, or Data — reach out. I don't bite. Much.
+If you're a junior looking to break into tech, or a company looking for training in DevOps, Cloud, AI, or Data — reach out.
 
 ---
 
