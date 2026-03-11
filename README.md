@@ -49,7 +49,7 @@ My classrooms are inclusive, chaotic in the best way, and built on the idea that
 - 🔭 **Observability stacks** — kube-prometheus-stack, Grafana alerting, PromQL, LogQL
 - 🤖 **LLMOps / RAG pipelines** — Azure AI Foundry, Azure AI Search, AKS with open-source models
 - 🎮 **RPSlot** — A Unity-based RPG/slot hybrid mobile game (yes, really)
-- 🎯 **Numberino / DionaBox** — Gamified coding education apps
+- 🎯 **Numberino / Dionabox** — Games & Gamified coding apps
 
 ---
 
