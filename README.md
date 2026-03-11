@@ -21,9 +21,9 @@ I'm a Lead Instructor at **Ironhack** (DevOps & Cloud Computing), **Tokio School
 ### 🔧 What I Teach & Build With
 
 ```
-Cloud & Infra       AWS · Azure · AKS · EKS · Terraform · Ansible
-Containers & Orch   Docker · Kubernetes · Helm · Gateway API · Traefik
-CI/CD & GitOps      GitHub Actions · Jenkins · ArgoCD
+Cloud & Infra        AWS · Azure · AKS · EKS · Terraform · Ansible
+Containers & Orch    Docker · Kubernetes · Helm · Gateway API · Traefik
+CI/CD & GitOps       GitHub Actions · Jenkins · ArgoCD
 Observability        Grafana · Prometheus · Loki · OpenTelemetry
 Data & AI/ML         Python · Keras · NumPy · Pandas · Power BI · RAG · LLMOps
 Web & Backend        React · TypeScript · Node.js · .NET · MongoDB
